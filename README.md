@@ -6,6 +6,17 @@ A lightweight Natural Language Processing system for medical conversation analys
 
 **Click [here](https://medical-transcript-analyzer.onrender.com/) to visit the web app.**
 
+## Webpage snapshots
+
+<div align="center">
+    <img src="screenshots/pic1.png" alt="Medical Transcript Analyzer" width="380" height="225">
+    <img src="screenshots/pic2.png" alt="Medical Summary" width="380" height="225">
+</div>
+<div align="center">
+    <img src="screenshots/pic3.png" alt="Sentiment and Intent" width="380" height="225">
+    <img src="screenshots/pic4.png" alt="SOAP Note" width="380" height="225">
+</div>
+
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
@@ -262,16 +273,7 @@ A: To improve SOAP note generation accuracy:
   }
 }
 ```
-## Webpage snapshots
 
-<div align="center">
-    <img src="screenshots/pic1.png" alt="Medical Transcript Analyzer" width="380" height="225">
-    <img src="screenshots/pic2.png" alt="Medical Summary" width="380" height="225">
-</div>
-<div align="center">
-    <img src="screenshots/pic3.png" alt="Sentiment and Intent" width="380" height="225">
-    <img src="screenshots/pic4.png" alt="SOAP Note" width="380" height="225">
-</div>
 
 ## FAQs
 
