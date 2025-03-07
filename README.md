@@ -4,7 +4,7 @@
 A lightweight Natural Language Processing system for medical conversation analysis. This system processes doctor-patient conversations to extract medical information, analyze sentiment, and generate structured medical documentation.
 ## Web App Link
 
-**Click [here](https://medical-transcript-analyzer.onrender.com/) to visit the web app.**
+**Click [here](https://medical-transcript-analyzer.onrender.com/) to visit the web app. Once clicked, please wait a minute for it to load**
 
 ## Webpage snapshots
 
